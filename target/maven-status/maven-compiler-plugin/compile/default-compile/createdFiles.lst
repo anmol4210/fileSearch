@@ -1,0 +1,5 @@
+com\nagarro\io\Input.class
+com\nagarro\logging\Log.class
+com\nagarro\model\TravelDetails.class
+com\nagarro\io\Output.class
+com\nagarro\dto\FlightSearch.class
